@@ -1,0 +1,118 @@
+---
+timezone: Europe/Berlin
+---
+
+> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
+> 时区请参考以下列表，请移除 # 以后的内容
+
+timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
+
+timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
+
+timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
+
+timezone: America/Denver # 山地标准时间 (UTC-7)
+
+timezone: America/Chicago # 中部标准时间 (UTC-6)
+
+timezone: America/New_York # 东部标准时间 (UTC-5)
+
+timezone: America/Halifax # 大西洋标准时间 (UTC-4)
+
+timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
+
+timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
+
+timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
+
+timezone: Europe/London # 格林威治标准时间 (UTC+0)
+
+timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
+
+timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
+
+timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
+
+timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
+
+timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
+
+timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
+
+timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
+
+timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
+
+timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
+
+timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
+
+timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
+
+---
+
+# Wimawang
+
+1. 自我介绍: 金融数学背景，人寿业务现金流模型相关工作，完整度过一个伴随比特币出块减半的加密市场周期，参与过链上指数项目及投入。
+2. 你认为你会完成本次残酷学习吗？80%可能性。
+
+## Notes
+
+<!-- Content_START -->
+
+### 2024.12.10
+
+- Introduction to Arbitrum
+
+Arbitrum is a layer-2 solution for Ethereum, enhancing its throughput and reducing costs by processing transactions off-chain and submitting only essential data to the mainnet. The flagship product — Arbitrum Rollup — is an Optimistic rollup protocol that inherits Ethereum-level security.
+
+- Key Features
+
+Scalability: Processes a large number of transactions off-chain, significantly reducing the load on Ethereum.
+
+Lower Costs: Minimizes gas fees by batching transactions and posting them as a single data entry on Ethereum.
+
+Security: Inherits Ethereum's security model, as all transaction data is anchored to the Ethereum blockchain.
+
+Compatibility: Fully compatible with the Ethereum Virtual Machine (EVM), making it easy for developers to migrate existing Ethereum dApps to Arbitrum.
+
+This ability to adjudicate and prove fraud on L1 is Arbitrum’s key, fundamental feature, and is how and why the system inherits Ethereum’s security.
+
+- Core Components
+
+Rollups: A technique where multiple transactions are bundled and posted to Ethereum as a single batch.
+
+Validators: Entities that monitor and validate off-chain transactions to ensure their correctness.
+
+Fraud Proofs: A mechanism to resolve disputes when a validator submits incorrect data.
+
+- How Arbitrum Works
+
+Transaction Submission: Users submit transactions to the Arbitrum chain.
+
+Processing: Transactions are processed off-chain by validators, reducing computational load.
+
+Batching: Processed transactions are bundled into rollups.
+
+Posting to Ethereum: The rollups are periodically posted to the Ethereum blockchain for security and finality.
+
+- Advantages
+
+Significantly reduces transaction costs.
+
+Enhances Ethereum’s scalability without compromising security.
+
+Fully interoperable with Ethereum, requiring minimal adjustments from developers.
+
+- Limitations
+
+Centralization Risk: Initially, a limited number of validators may introduce centralization concerns.
+
+Dependency on Ethereum: Arbitrum’s security is tied to Ethereum, so any vulnerabilities in Ethereum could affect Arbitrum.
+
+
+Arbitrum represents a significant advancement in Ethereum’s scalability and usability. By leveraging rollups, it provides a high-performance, cost-effective, and secure environment for decentralized applications. Its compatibility with Ethereum ensures that developers can seamlessly adopt it, making it a cornerstone of the Ethereum ecosystem’s scaling strategy.
+
+### 2024.12.10
+
+<!-- Content_END -->
