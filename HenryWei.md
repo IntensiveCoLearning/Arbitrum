@@ -1744,4 +1744,28 @@ Arbitrum 的跨链桥接机制（Bridge Mechanism）是连接以太坊主网（L
 - 利用 Merkle 树将所有交易的状态根生成一个单一哈希值。
 - 提交到 Layer 1 的仅是根哈希，而非整个交易明细。
 
+### 2024.12.27
+
+#### Arbitrum 相关的开源项目
+
+- OffchainLabs/arbitrum
+
+  - 地址: <https://github.com/OffchainLabs/arbitrum>
+
+- OffchainLabs/nitro
+
+- 地址: <https://github.com/OffchainLabs/nitro>
+
+- OffchainLabs/arbitrum-tutorials
+
+  - 地址: <https://github.com/OffchainLabs/arbitrum-tutorials>
+
+- OffchainLabs/arb-os
+
+  - 地址: <https://github.com/OffchainLabs/arb-os>
+
+- OffchainLabs/arb-provider-ethers
+
+  - 地址: <https://github.com/OffchainLabs/arb-provider-ethers>
+
 <!-- Content_END -->
