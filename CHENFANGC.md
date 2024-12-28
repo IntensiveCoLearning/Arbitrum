@@ -146,4 +146,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 阅读文档[官方治理文档](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
 
+### 2024.12.28
+
+阅读文档[治理论坛](https://forum.arbitrum.foundation)
+
 <!-- Content_END -->
