@@ -359,4 +359,7 @@ Arbitrum DAO宪法：规定Arbitrum DAO运作规则、程序和社区价值观�
 可投票代币：除了Arbitrum DAO和Arbitrum基金会拥有的代币之外的所有$ARB代币。  
 投票期：Arbitrum改进提案（AIP）提交成功后，Arbitrum DAO成员可以投票支持或反对的14-16天期间。  
 
+### 2024.12.28
+治理架构：阅读 [安全理事会成员](https://docs.arbitrum.foundation/security-council-members)
+Arbitrum DAO是一个建立在以太坊区块链上的去中心化自治组织，它通过社区驱动的治理机制赋予$ARB代币持有者提出和投票决定组织及其技术变化的能力。其治理智能合约部署在Arbitrum One rollup链上，这是一个第2层扩展解决方案，旨在提升以太坊的可扩展性。代币持有者使用$ARB代币对提案进行投票，其投票权重与他们持有的代币数量成正比。Arbitrum DAO还设有一个内置金库系统，用于资助组织的持续开发和维护，代币持有者可以对金库资金的使用提出建议并进行投票。此外，DAO内置了一个安全委员会，负责确保DAO及其链的安全性和完整性，并在安全紧急情况下迅速采取行动，绕过常规投票过程。安全委员会成员由DAO成员通过半年一次的选举产生。
 <!-- Content_END -->

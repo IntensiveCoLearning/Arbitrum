@@ -307,10 +307,44 @@ https://portal.arbitrum.io/?chains=arbitrum-one
 
 ### 2024.12.27
 
+https://github.com/dysquard/Arbitrum_Doc_CN/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8D%8F%E8%AE%AE/%E6%B4%9E%E6%82%89Arbitrum.md 
+#### 机制的深入理解  
+- Arbitrum是一种rollup，这意味着对Arbitrum链的输入也即收件箱中收到的信息，全部都以**calldata**的形式被记录在以太坊上。每个人都能查看收件箱的完整历史，而链状态又完全取决于收件箱历史。因此，仅凭借公开信息就可以决定当前正确的链状态的信息。如有必要，还可重建整个链状态。
+- rollup 协议是在L1 上的合约。
+- 挑战期（大约为一周）结束后仍没有对rollup区块提出挑战，Arbitrum就会将该rollup区块认定为正确的
+- 作恶者的质押资金将被没收，其中一部分将奖励给诚信者
+- 如何解决争议？  **交互式证明**：
+  	- 分解争议， 直到找到争议行为
+  	- L1的仲裁合约，对行为进行判定 
+
+![image](https://github.com/user-attachments/assets/db849ddc-19a2-49ab-bde0-37567b576ea1)
+
+#### L2 的架构
+- EVM兼容层,ArbOS,AVM,ethBridge, L1
+- evm兼容层的合约， 可以加载到 Arbos内，
+- AVM 读取输入，计算，再输出， 是L2 和L1 的分界线
+- ethBridge 是L1层的合约， AVM的输出结果，会传入这里的rollup合约，写入到L1 ，或执行仲裁合约。 
 
 
+### 2024.12.28
+
+#### EthBridge 是为了管理Arb的，在L1层的一组合约，包括
+1. 收件箱合约，链的输入
+2. 发件箱合约，链的输出
+3. Rollup 合约：
+	- rollup协议并不决定交易的结果，它只对结果进行确认 
+	- L2扩容的核心要义就是以太坊不需要承担交易的所有工作量
+	- 参与rollup协议的人，就是eth的验证者， 需要32个质押。
+	- 一诚则成： 只要有一个诚实的验证者，那么整个链的正确运行就会有绝对的保证
+4. 挑战合约： 仲裁用的
+
+### 2024.12.29
 
 
+### 2024.12.30
+
+
+### 2024.12.31
 
 
 

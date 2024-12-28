@@ -138,5 +138,10 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 1. 官方治理文档 https://docs.arbitrum.foundation/gentle-intro-dao-governance
 
+### 2024.12.28
+
+1. 提供的资料基本学习完了，对 Arbitrum 有了基本的了解，知道是什么，解决了什么问题，有什么优势，以及如何去使用
+2. 后续 阅读开发文档 尝试再 arbitrum 上进行 Dapp 开发
+
 
 <!-- Content_END -->

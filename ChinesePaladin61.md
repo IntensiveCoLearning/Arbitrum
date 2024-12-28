@@ -621,4 +621,33 @@ Arbitrum DAO 的成员可以更改安全理事会选举的规则，但不能在�
 这些需求通常需要专家级的技术能力和跨各种技术领域的经验，但 Arbitrum DAO 的价值观和需求可能会随着时间的推移而发展。了解安理会机制及其目的非常重要，特别是如果你是代表或以其他方式积极参与 Arbitrum DAO 的治理。
 
 如果你是 Arbitrum DAO 的成员，那么了解并支持风险管理和逐步去中心化的努力尤为重要，以确保 Arbitrum DAO 及其所管理的技术的长期成功和可持续性。这包括对以太坊社区内外的期望和看法的管理。它还包括持续、协作的自我教育。
+
+### 2024.12.28
+
+### Arbitrum DAO 简介
+
+Arbitrum Rollup 和 Arbitrum AnyTrust 是使以太坊交易更快、更便宜的协议。开发人员分别使用实现这些协议的链 Arbitrum One 和 Arbitrum Nova 来构建用户友好的去中心化应用程序。
+$ARB治理代币的分发分散了这些协议及其各自链以及 Arbitrum DAO 授权的任何未来链的治理。
+$ARB 代币可用于对 Arbitrum DAO 治理提案进行投票，允许$ARB持有者共同塑造 Arbitrum 的未来。
+代币持有者将能够将他们的投票权委托给代表。
+$ARB空投于 2023 年 3 月 23 日开始，并于 2023 年 9 月 24 日结束。
+您可以通过与 Arbitrum 社区互动并说服 $ARB 持有者将他们的投票委托给您，或者自己持有$ARB来成为 Arbitrum DAO 代表。
+要在 Arbitrum 上构建去中心化应用程序，请查看开发人员文档。
+
+你好！什么是 Arbitrum？
+Arbitrum 是一种使以太坊交易更快、更便宜的协议。开发人员使用 Arbitrum 构建用户友好的去中心化应用程序 （dApp），这些应用程序可以利用 Arbitrum Rollup 和 AnyTrust 协议的可扩展性优势。
+
+Arbitrum 的旗舰链 Arbitrum One 于 2021 年推出。紧随其后的是 Arbitrum Nova 的推出，这是一个为超低成本交易而构建的独立 AnyTrust 链。2022 年 8 月，Arbitrum One 升级为 Arbitrum Nitro 堆栈，扩容能力升级 7-10 倍。
+
+$ARB治理代币的分发分散了 Arbitrum One 和 Arbitrum Nova 及其底层协议的治理。$ARB 代币可用于对 Arbitrum DAO 治理提案进行投票，允许$ARB持有者共同塑造 Arbitrum 协议和链的未来。代币持有者还可以将他们的投票权委托给代表。
+
+Arbitrum 的治理是如何运作的？
+Arbitrum Rollup 协议的治理由两个管理机构驱动：安全委员会和 Arbitrum DAO。
+
+安全理事会是一个由 Arbitrum DAO 成员选举产生的 12 人实体理事会。该委员会负责在必要时选择性地采取紧急行动，确保 Arbitrum 的安全和性能。请参阅 代表和委托 有关 Arbitrum DAO 委托机制的概念性概述。
+Arbitrum DAO 是由 $ARB 代币持有者及其选择的代表组成的全球社区。DAO 负责管理 Arbitrum 及其安全委员会。DAO 可以利用宪法提案来修改安理会的权力，甚至完全取消安理会。安全理事会的权力由 DAO 授予安全理事会，并以 DAO 的最佳利益为出发点。请参阅 Arbitrum DAO 以获取 DAO 各个组成部分的介绍性概述。
+
+什么是委托人？
+代表就像民选代表。$ARB代币持有者可以将他们的投票权委托给代表。
+
 <!-- Content_END -->
