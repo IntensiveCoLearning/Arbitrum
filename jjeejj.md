@@ -143,5 +143,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 1. 提供的资料基本学习完了，对 Arbitrum 有了基本的了解，知道是什么，解决了什么问题，有什么优势，以及如何去使用
 2. 后续 阅读开发文档 尝试再 arbitrum 上进行 Dapp 开发
 
+### 2024.12.29
+
+1. 阅读 开发文档的 welcome 部分，了解 chain 相关的信息
 
 <!-- Content_END -->
