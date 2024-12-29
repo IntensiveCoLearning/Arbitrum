@@ -41,7 +41,7 @@ Arbitrum,Non-technical background,beginner-friendly
 
 ## 社群
 
-Telegram：[Arbitrum 残酷共学](https://t.me/LXDAO/15575)
+Telegram：https://t.me/LXDAO/15575
 
 ## 共学内容
 
