@@ -650,4 +650,71 @@ Arbitrum DAO 是由 $ARB 代币持有者及其选择的代表组成的全球社�
 什么是委托人？
 代表就像民选代表。$ARB代币持有者可以将他们的投票权委托给代表。
 
+### 2024.12.29
+
+粘贴一个Arbitrum建议的文章
+https://forum.arbitrum.foundation/这是治理论坛的链接
+
+### 支持建立 GrantsDAO
+
+ArbitrumDAO 的一个成功指标是它能够接受由独立组织运营的资助计划生态系统，这些组织都有相同的愿景：如何发展建设者生态系统并构建更好的 Arbitrum。
+
+为了帮助引导这一过程，Arbitrum 基金会将拨款 250,000 美元，并支持社区为 ArbitrumDAO 批准的未来资助计划建立替代框架，从而为创建多个 GrantDAO 创建途径，这些 DAO 可以由 ArbitrumDAO 直接管理，并独立于 Arbitrum 基金会运作。
+
+我们提出了以下动机以及一套指导方针，但我们也鼓励 ArbitrumDAO 将此视为垫脚石，最终由 DAO 启动一项长期计划来实现它。
+
+赋予动机
+理想情况下，去中心化的生态系统具有去中心化的资金来源。作为 ArbitrumDAO 最大化去中心化并从这种弹性中获益的使命的一部分，建设者和贡献者必须有几种非依赖的途径来获得支持和资金。
+
+目前，在 Arbitrum 生态系统中，构建者和贡献者可以通过多种方式获得 Grant：
+
+基金会资助计划，由基金会管理;
+由基金会支持的 STIP;
+由基金会支持的 Plurality Labs;
+Questbook 的 Questbook 独立运营。
+虽然上述所有资助计划都已获得 ArbitrumDAO 的批准，因此是根据去中心化投票建立的，但可以预见的是，不同的资助计划将由多个实体管理，甚至可能相互竞争，以争夺由 ArbitrumDAO 确定的资助计划的最佳和最有效的方法。当然，参与者仍然可以选择遵循基金会支持的项目形式，为选择走这条路的 Arbitrum 项目保持灵活性。
+
+指导和建议
+我们希望借此机会为任何可能希望建立自己的 Grants DAO 的合格团体提供一些指导和建议，这些指导和建议应该与符合 ArbitrumDAO 最佳利益的最佳实践一起考虑。
+
+毕竟，虽然基金会有义务保护基金会和 ArbitrumDAO 免受其直接管理/支持的任何项目的法律和运营风险，但由 ArbitrumDAO 选择的赠款 DAO 将被委托直接管理赠款，但须遵守基本的监控和报告要求。
+
+以下是我们建议包含在任何 Grant DAO 提案中的内容：
+
+Grant DAO 使命
+GrantDAO 的目的是什么，它的成功意味着什么？
+集团结构
+在 GrantsDAO 中的角色，
+凭据
+补偿。
+寻求为 ArbitrumDAO 做出贡献的团体管理的赠款类型
+审计？发展？成长？
+申请的赠款总额（部分）：
+启动援助补助金：GrantDAO 可能会在开始资助活动之前提出建立 Grants DAO 所需的金额。
+赠款经理补偿：GrantDAO 应详细说明所请求的拟议金额中有多少将是对赠款经理的补偿。
+资助申请、批准和支付的政策和程序：
+应该明确如何审查资助申请和进行尽职调查，如何做出资助决定，以及 GrantDAO 实施的适当的行业标准合规程序和文件。
+此外，我们建议对任何新的 GrantsDAO 考虑以下关键因素：
+
+DAO 治理。GrantsDAO 将由 ArbitrumDAO 直接管理，并独立于 Arbitrum 基金会运营（并做出资助决定）。
+DAO 监督。ArbitrumDAO 将监控所有 GrantDAO。GrantsDAO 应与 ArbitrumDAO 合作，以促进任何必要的监控。这可能包括透明度报告、绩效审查、检查 GrantsDAO 是否正在执行合规流程，以及 GrantsDAO 是否按照其既定使命工作。
+DAO 回拨。ArbitrumDAO 有权出于其认为必要的任何原因，强制将 GrantsDAO 的任何未用资金退还给 ArbitrumDAO 金库。
+GrantsDAO 合规流程。GrantsDAO 将根据合规政策执行 KYC/KYB 要求，该政策是与受雇支持其法人实体的知名律师事务所制定的。
+智能钱包。应该有两个智能合约来管理资金：
+分批/归属钱包。执行归属时间表，以随着时间的推移释放资金。
+GrantsDAO 钱包。从归属钱包中提取资金，并使符合条件的团体能够使用资金发放赠款。
+智能钱包的条件。如果 ArbitrumDAO 指示（或者如果检测到对 ArbitrumDAO 构成重大风险的非法活动），Arbitrum 基金会可以从 Tranche/Vesting 钱包中收回资金。从 GrantsDAO 钱包发放的所有赠款都应延迟 ~2 天，以使 GrantsDAO 能够实施追回/保护资金的流程，例如，如果 GrantDAO 的钱包密钥被盗用。
+资金转账。假设 GrantDAO 提案通过，那么根据 GrantsDAO 是否准备就绪（例如，它是否已经成立实体、完成 KYC 并签署了 GrantsDAO 协议），赠款的发送方式将有所不同：
+GrantsDAO 已经建立了一个法人实体。从 ArbitrumDAO 金库直接到该特定 GrantDAO 的 Tranche / Vesting Wallet 智能合约钱包。
+GrantsDAO 尚未设立法人实体。从 ArbitrumDAO 金库到 Arbitrum 基金会，然后在 GrantsDAO 成立时将资金转移到 Tparte / Vesting 钱包钱包中。
+基金会合规。基金会将确保为任何获得批准的 GrantDAO 完成适当的 KYC 和与基金会满意的授权签字人的文件（例如 GrantsDAO 协议），但基金会最终将服从 ArbitrumDAO 自己的尽职调查流程和决定来批准任何特定的 GrantDAO。
+获得 Bootstrap 基金的条件
+Arbitrum 基金会已拨款 250,000 美元支持 ArbitrumDAO 社区（包括已经在 Arbitrum 上构建的团队、寻求为 ArbitrumDAO 做出贡献的新团体、ArbitrumDAO 代表等）建立新的独立 GrantDAO。它将通过聘请领先的全方位服务律师事务所（由国际知名目录提供）以及杂项费用，以先到先得的方式使用。这一举措应被视为权宜之计，直到 ArbitrumDAO 出现一个更大的举措。
+
+如果满足以下条件，潜在的 GrantsDAO 申请人可以使用这些资金：
+
+已通过并达到 Quorum 的温度检查投票（快照）;
+没有怀疑 GrantsDAO 会进行非法活动;和
+GrantsDAO 同意该计划的指导和建议。
+
 <!-- Content_END -->
