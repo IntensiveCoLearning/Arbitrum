@@ -150,7 +150,7 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 阅读文档[治理论坛](https://forum.arbitrum.foundation)
 
-### 2024.12.29
+### 2024.12.30
 
 阅读文档[DAO 治理案例分析](https://foresightnews.pro/article/detail/45035)
 
