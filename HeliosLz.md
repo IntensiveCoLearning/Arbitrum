@@ -885,4 +885,20 @@ Arbitrum DAO 修订宪法
 5. 技术包容性：普通用户和设备也能参与协议。
 6. 用户至上：以用户利益为核心。
 7. 中立与开放：支持创新和竞争，不偏袒。
+
+### 2024.12.30
+
+Arbitrum 基金会拨款决策流程
+
+<img width="708" alt="image" src="https://github.com/user-attachments/assets/617a3fdb-0a60-45b2-a200-2f1def61e7fc" />
+
+Arbitrum 基金会透明度报告
+
+file:///Users/gffive/Downloads/Arbitrum%20Foundation%20Grants%20Transparency%20Report.pdf
+
+https://docs.arbitrum.foundation/assets/files/ArbitrumFoundationBiannualReport2024H1-c8e9ab997fe68ad09c0105181f9826d8.pdf
+
+
+
+
 <!-- Content_END -->
