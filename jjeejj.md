@@ -147,4 +147,8 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 1. 阅读 开发文档的 welcome 部分，了解 chain 相关的信息
 
+### 2024.12.30
+
+1. 今天收官，对自己一个总结：总的来说 有收获，系统的学习 Arbitrum, 对自己 all in Web3 行业打基础
+
 <!-- Content_END -->
