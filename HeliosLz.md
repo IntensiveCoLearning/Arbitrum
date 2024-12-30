@@ -893,10 +893,12 @@ Arbitrum 基金会拨款决策流程
 <img width="708" alt="image" src="https://github.com/user-attachments/assets/617a3fdb-0a60-45b2-a200-2f1def61e7fc" />
 
 Arbitrum 基金会透明度报告
+
 file:///Users/gffive/Downloads/Arbitrum%20Foundation%20Grants%20Transparency%20Report.pdf
+
 https://docs.arbitrum.foundation/assets/files/ArbitrumFoundationBiannualReport2024H1-c8e9ab997fe68ad09c0105181f9826d8.pdf
 
-### 2024.12.31
+
 
 
 <!-- Content_END -->
