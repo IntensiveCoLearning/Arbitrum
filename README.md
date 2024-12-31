@@ -176,11 +176,11 @@ Telegram：https://t.me/LXDAO/15575
 | happylucie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | Rey666666 | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | CHENFANGC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
-| Muyec | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| Muyec | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | YuanboXie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | JacksonStack | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Helen2022a | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| stualan | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   |
+| stualan | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |
 | fuhaooo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ❌ | | |
 | pliker-git | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | |
 | noyyyy | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -528,5 +528,17 @@ Telegram：https://t.me/LXDAO/15575
 
 
 
+
 <!-- STATISTICALDATA_START -->
+
+
+## 统计数据
+
+- 总参与人数: 35
+- 完成人数: 13
+- 完成用户: Yi-fantasy, StarryDesert, pillowtalk-Qy, nocb, ChinesePaladin61, jjeejj, CHENFANGC, Muyec, JacksonStack, stualan, yuhui, HenryWei, HeliosLz
+- 全勤用户: Yi-fantasy, ChinesePaladin61, jjeejj, yuhui, HenryWei
+- 淘汰人数: 22
+- 淘汰率: 62.86%
+- Fork人数: 45
 <!-- STATISTICALDATA_END -->
