@@ -180,8 +180,8 @@ Telegram：https://t.me/LXDAO/15575
 | YuanboXie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | JacksonStack | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Helen2022a | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| stualan | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |
-| fuhaooo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ❌ | | |
+| stualan | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ |
+| fuhaooo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | ⭕️ | ❌ | |
 | pliker-git | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | |
 | noyyyy | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | NSXX2021 | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -191,13 +191,14 @@ Telegram：https://t.me/LXDAO/15575
 | HenryWei | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | missingtheway | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | | |
 | iavl | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| HeliosLz | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ | ✅ |
-| linyuanye3 | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ✅ |   | ⭕️ | ❌ | | |
+| HeliosLz | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |
+| linyuanye3 | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ |   | ❌ | | |
 | joyc | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | |
 | CornellZheng | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | YOUKUAIHAOMUTOU | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
 | wodeche | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -564,7 +565,7 @@ Telegram：https://t.me/LXDAO/15575
 
 - 总参与人数: 35
 - 完成人数: 12
-- 完成用户: Yi-fantasy, StarryDesert, pillowtalk-Qy, nocb, ChinesePaladin61, jjeejj, CHENFANGC, Muyec, JacksonStack, stualan, yuhui, HenryWei
+- 完成用户: Yi-fantasy, StarryDesert, pillowtalk-Qy, nocb, ChinesePaladin61, jjeejj, CHENFANGC, Muyec, JacksonStack, yuhui, HenryWei, HeliosLz
 - 全勤用户: Yi-fantasy, ChinesePaladin61, jjeejj, yuhui, HenryWei
 - 淘汰人数: 22
 - 淘汰率: 62.86%
