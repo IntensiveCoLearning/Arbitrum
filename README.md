@@ -166,7 +166,7 @@ Telegram：https://t.me/LXDAO/15575
 | onthebigtree | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | Soleil-YSY | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | jiejie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| StarryDesert | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ |
+| StarryDesert | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
 | a-super-cat | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | |
 | pillowtalk-Qy | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | hechichu | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | |
@@ -175,8 +175,8 @@ Telegram：https://t.me/LXDAO/15575
 | jjeejj | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | happylucie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | Rey666666 | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
-| CHENFANGC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ |
-| Muyec | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
+| CHENFANGC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
+| Muyec | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
 | YuanboXie | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | JacksonStack | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Helen2022a | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -560,14 +560,15 @@ Telegram：https://t.me/LXDAO/15575
 
 
 
+
 <!-- STATISTICALDATA_START -->
 
 
 ## 统计数据
 
 - 总参与人数: 35
-- 完成人数: 11
-- 完成用户: Yi-fantasy, pillowtalk-Qy, nocb, ChinesePaladin61, jjeejj, Muyec, JacksonStack, stualan, yuhui, HenryWei, HeliosLz
+- 完成人数: 12
+- 完成用户: Yi-fantasy, StarryDesert, pillowtalk-Qy, nocb, ChinesePaladin61, jjeejj, CHENFANGC, JacksonStack, stualan, yuhui, HenryWei, HeliosLz
 - 全勤用户: Yi-fantasy, ChinesePaladin61, jjeejj, yuhui, HenryWei
 - 淘汰人数: 22
 - 淘汰率: 62.86%
