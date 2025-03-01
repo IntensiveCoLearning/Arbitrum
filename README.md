@@ -181,7 +181,7 @@ Telegram：https://t.me/LXDAO/15575
 | [JacksonStack](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/JacksonStack.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Helen2022a](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/Helen2022a.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [stualan](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/stualan.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |
-| [fuhaooo](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/fuhaooo.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |   | ❌ | |
+| [fuhaooo](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/fuhaooo.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ❌ | | |
 | [pliker-git](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/pliker-git.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | |
 | [noyyyy](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/noyyyy.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [NSXX2021](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/NSXX2021.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -198,6 +198,7 @@ Telegram：https://t.me/LXDAO/15575
 | [YOUKUAIHAOMUTOU](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/YOUKUAIHAOMUTOU.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/wodeche.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
