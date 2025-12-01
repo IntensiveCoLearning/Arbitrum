@@ -176,7 +176,7 @@ Telegram：https://t.me/LXDAO/15575
 | [happylucie](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/happylucie.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Rey666666](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/Rey666666.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/CHENFANGC.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |
-| [Muyec](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/Muyec.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| [Muyec](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/Muyec.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [YuanboXie](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/YuanboXie.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [JacksonStack](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/JacksonStack.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Helen2022a](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/Helen2022a.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -198,6 +198,7 @@ Telegram：https://t.me/LXDAO/15575
 | [YOUKUAIHAOMUTOU](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/YOUKUAIHAOMUTOU.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
 | [wodeche](https://github.com/IntensiveCoLearning/Arbitrum/blob/main/wodeche.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
